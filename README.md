@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-Class activities and demonstrations were heavily referenced for examples and instruction.  Minimal Microsoft and StackOverflow were used for definitions and individual formulas.  Other websites found via Google were used in similar way to MicroSoft and StackOverFlow.
+Class activities and demonstrations were heavily referenced for examples and instruction.  Minimal Microsoft and StackOverflow were used for definitions and individual formulas.  Other websites found via Google were used in similar way to MicroSoft and StackOverFlow.  I received some help from askBCS for one roadblock.
 
 Data on my report does not match the sample in the instructions.  I did manual sums for the same columns (AAB Only) in all three years to try to locate discrepancies but my sums matched my formula results.  
 
